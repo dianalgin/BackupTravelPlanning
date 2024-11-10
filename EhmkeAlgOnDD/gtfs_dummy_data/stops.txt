@@ -1,0 +1,5 @@
+stop_id,stop_name,stop_lat,stop_lon
+1,Schwedenplatz,48.212156,16.376531
+2,Praterstern,48.216618,16.392905
+3,Volkstheater,48.204793,16.357764
+4,Stephansplatz,48.208583,16.372504
